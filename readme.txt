@@ -1,0 +1,1 @@
+docker exec -it java_challenge psql -U postgres -d JavaChallenge
